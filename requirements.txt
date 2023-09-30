@@ -1,0 +1,14 @@
+g4f
+requests
+aiohttp
+flask
+flask_cors
+pycryptodome
+curl_cffi
+aiohttp
+certifi
+browser_cookie3
+websockets
+js2py
+typing-extensions
+PyExecJS
