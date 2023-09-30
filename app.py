@@ -7,6 +7,7 @@ from typing import Any
 import requests
 from flask import Flask, request
 from flask_cors import CORS
+import g4f
 from g4f import ChatCompletion
 
 # get env
