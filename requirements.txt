@@ -20,6 +20,7 @@ asgiref
 fastapi
 uvicorn
 flask
+flask_cors
 py-arkose-generator
 asyncstdlib
 async-property
